@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /fonts/
+Disallow: /css/
+Disallow: /js/
+Disallow: /plugins/
+Disallow: /styles/
+Disallow: /system/
+Disallow: /images/
+Disallow: /sitemap.xml
+Disallow: /index.html
+Disallow: /robots.txt
+
+Sitemap: http://eduface.in/sitemap.xml

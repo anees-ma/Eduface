@@ -1,0 +1,11 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-10-07 02:05:49 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-10-07 05:50:04 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-10-07 09:09:37 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-10-07 11:34:38 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-10-07 14:40:51 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-10-07 16:05:19 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-10-07 20:03:29 --> 404 Page Not Found: Lookblogphp/index
+ERROR - 2018-10-07 20:03:29 --> Severity: Warning --> include(/home/rjoyc54v0siv/public_html/eduface.in/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/rjoyc54v0siv/public_html/eduface.in/system/core/Exceptions.php 182
+ERROR - 2018-10-07 20:03:29 --> Severity: Warning --> include(): Failed opening '/home/rjoyc54v0siv/public_html/eduface.in/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') /home/rjoyc54v0siv/public_html/eduface.in/system/core/Exceptions.php 182

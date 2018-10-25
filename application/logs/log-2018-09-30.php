@@ -1,0 +1,11 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-09-30 03:52:47 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2018-09-30 03:52:47 --> Severity: Warning --> include(/home/rjoyc54v0siv/public_html/eduface.in/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/rjoyc54v0siv/public_html/eduface.in/system/core/Exceptions.php 182
+ERROR - 2018-09-30 03:52:47 --> Severity: Warning --> include(): Failed opening '/home/rjoyc54v0siv/public_html/eduface.in/application/views/errors/html/error_404.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') /home/rjoyc54v0siv/public_html/eduface.in/system/core/Exceptions.php 182
+ERROR - 2018-09-30 06:51:31 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-09-30 09:55:04 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-09-30 09:58:39 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-09-30 17:42:17 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-09-30 18:35:41 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
+ERROR - 2018-09-30 19:46:26 --> Severity: 8192 --> Methods with the same name as their class will not be constructors in a future version of PHP; Template has a deprecated constructor /home/rjoyc54v0siv/public_html/eduface.in/application/libraries/Template.php 33
