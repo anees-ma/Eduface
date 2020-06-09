@@ -2,7 +2,7 @@
 
 <div class="super_container">
 	
-	<!-- Home -->
+	<!-- Home page section-->
 
 	<div class="home">
 		<div class="home_slider_container">
